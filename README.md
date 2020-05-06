@@ -9,5 +9,10 @@ branch and merge conflicts
 
 New change for bug fix
 
+
 this is a line added from the bug-fix branch
+
+This is made on the feature branch
+
+
 
