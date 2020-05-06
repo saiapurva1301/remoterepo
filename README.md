@@ -6,3 +6,6 @@ This is a new line added
 
 this is the 2nd attempt to check
 branch and merge conflicts
+
+New change for bug fix
+
